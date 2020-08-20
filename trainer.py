@@ -6,7 +6,7 @@ stemmer= LancasterStemmer()
 import numpy
 import tensorflow
 import tflearn
-import random
+
 import json
 
 
